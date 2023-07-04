@@ -1,16 +1,3 @@
-# Set constants
-Option = "Put"
-K = 24
-T = 0.4
-sigma = 0.38
-r = 0.02
-d = 0.005
-Accuracy = 300
-True_Accuracy = 1000
-Stock_Price = 23
-exact = False
-
-
 # Libraries and objects needed for finite difference method
 import numpy as np
 import matplotlib.pyplot as plt
@@ -22,10 +9,23 @@ from matplotlib import cm
 from mpl_toolkits.mplot3d import Axes3D
 
 
+
 # Beginning timer to approximate total run time
 t_total_FDM = time()
 
-### Why are we using difference s_max and S_max??
+
+
+# Set constants
+Option = "Put"
+K = 24
+T = 0.4
+sigma = 0.38
+r = 0.02
+d = 0.005
+Accuracy = 300
+True_Accuracy = 1000
+Stock_Price = 23
+exact = False
 
 
 
