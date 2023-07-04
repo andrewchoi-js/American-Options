@@ -6,7 +6,7 @@ sigma = 0.38
 r = 0.02
 d = 0.005
 Accuracy = 300
-True_Accuracy = 500
+True_Accuracy = 1000
 Stock_Price = 23
 exact = False
 
