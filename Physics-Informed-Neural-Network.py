@@ -1,3 +1,16 @@
+# Set constants
+Option = "Put"
+K = 24
+T = 0.4
+sigma = 0.38
+r = 0.02
+d = 0.005
+Accuracy = 300
+True_Accuracy = 1000
+Stock_Price = 23
+
+
+
 # Libraries and objects needed for PINN
 import tensorflow as tf
 import numpy as np
