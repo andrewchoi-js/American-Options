@@ -13,7 +13,7 @@ We began this project by first utilizing a Crank-Nicolson finite difference meth
 
 After successfully implementing a PINN for pricing American Options, we began the process of further repurposing the PINN framework to price the Guaranteed Minimum Income Benefit (GMIB) Variable Annuity. The GMIB Variable Annuity's PDE form is similar to the Black-Scholes equation, but has different terminal and boundary conditions. Additionally, the existence of a continuous spectrum of possible decisions open to a policyholder makes the process of solving for the optimal decision strategy significantly more difficult. Determining the optimal withdrawals strategy is handled through the addition of a jump condition under the assumption that a policyholder can withdraw any amount from their account value at any time between the contract inception and annuitization. The PINN implementation can be found in the "GMIB-Variable-Annuities" folder under the file name "Physics-Informed-Neural-Network-VA.py." 
 
-A deeper look at the metholodogies and techniques used to implement the PINNs for American Options and GMIB Variable Annuities can be found in the following paper: "Applications of Physics-Informed Neural Networks for Pricing American Options and GMIB Variable Annuities."
+A deeper look at the metholodogies and techniques used to implement the PINNs for American Options and GMIB Variable Annuities can be found in the following report: "Applications of Physics-Informed Neural Networks for Pricing American Options and GMIB Variable Annuities."
 
 ### Code Citations
 
