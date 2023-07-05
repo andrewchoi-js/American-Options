@@ -1,5 +1,5 @@
 # CFMAR Lab - Physics-Informed Neural Networks for American Option/GMIB Variable Annuity Pricing
-This repository contains two folders dedicated towards demonstrating the potential of Physics-Informed Neural Networks in the finance and insurance industries. The code in each folder is used to solve for the premium of American Options and the optimal withdrawals strategy of Guaranteed Minimum Income Benefit Variable Annuities respectively.
+This repository contains two folders dedicated towards demonstrating the potential of Physics-Informed Neural Networks in the finance and insurance industries. The code contained within each is intended to supplement the paper "Applications of Physics-Informed Neural Networks for Pricing American Options and GMIB Variable Annuities."
 
 ## The Physics-Informed Neural Network
 
