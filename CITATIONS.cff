@@ -1,0 +1,10 @@
+Program [1]
+
+@misc{blechschmidt2021ways,
+  title={Three Ways to Solve Partial Differential Equations with Neural Networks --- A Review}, 
+  author={Jan Blechschmidt and Oliver G. Ernst},
+  year={2021},
+  eprint={2102.11802},
+  archivePrefix={arXiv},
+  primaryClass={math.NA}
+}
