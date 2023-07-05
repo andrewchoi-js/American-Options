@@ -1,5 +1,5 @@
 # CFMAR Lab - Physics-Informed Neural Networks for American Option/GMIB Variable Annuity Pricing
-This repository contains two folders dedicated towards demonstrating the potential of Physics-Informed Neural Networks in the finance and insurance industries. The code contained within each is intended to supplement the paper "Applications of Physics-Informed Neural Networks for Pricing American Options and GMIB Variable Annuities."
+This repository contains two folders dedicated towards demonstrating the potential of Physics-Informed Neural Networks in the finance and insurance industries.
 
 ## The Physics-Informed Neural Network
 
@@ -13,7 +13,9 @@ We began this project by first utilizing a Crank-Nicolson finite difference meth
 
 After successfully implementing a PINN for pricing American Options, we began the process of further repurposing the PINN framework to price the Guaranteed Minimum Income Benefit (GMIB) Variable Annuity. The GMIB Variable Annuity's PDE form is similar to the Black-Scholes equation, but has different terminal and boundary conditions. Additionally, the existence of a continuous spectrum of possible decisions open to a given policyholder makes the process of solving for the optimal decision strategy significantly more difficult. Determining the optimal withdrawals strategy is handled through the addition of a jump condition under the assumption that a policyholder can withdraw any amount from their account value at any time between the contract inception and annuitization.
 
-### Citations
+A deeper look at the metholodogies and techniques used to implement the PINNs for American Options and GMIB Variable Annuities can be found in the following paper: "Applications of Physics-Informed Neural Networks for Pricing American Options and GMIB Variable Annuities."
+
+### Code Citations
 
 [1] @misc{blechschmidt2021ways, <br />
   &emsp; title={Three Ways to Solve Partial Differential Equations with Neural Networks --- A Review}, <br />
