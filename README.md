@@ -17,7 +17,8 @@ A deeper look at the metholodogies and techniques used to implement the PINNs fo
 
 ### Code Citations
 
-[1] @misc{blechschmidt2021ways, <br />
+[1] 
+@misc{blechschmidt2021ways, <br />
   &emsp; title={Three Ways to Solve Partial Differential Equations with Neural Networks --- A Review}, <br />
   &emsp; author={Jan Blechschmidt and Oliver G. Ernst}, <br />
   &emsp; year={2021}, <br />
