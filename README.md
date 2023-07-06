@@ -38,7 +38,7 @@ If you find bugs or have ideas feel free to raise an `Issue` or contribute with 
 
 ## Title Page Template
 <p align="center">
-  <img src="https://github.com/andrewchoi-js/CFMAR-Winter2023/blob/main/Report-Images/CFMAR_pg1.png" alt="Example Title" height="888">
+  <img src="https://github.com/andrewchoi-js/CFMAR-Winter2023/blob/main/Report-Images/CFMAR_pg1-1.png" alt="Example Title" height="888">
 </p>
 
 ## Main Body Template
